@@ -1,3 +1,3 @@
 # MocBus
 
-Projeto de rastreamento de ônibus
+Projeto piloto de rastreamento de ônibus
